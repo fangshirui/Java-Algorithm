@@ -1,4 +1,4 @@
-package com.二叉树的最大路径和124;
+package com.二叉树.二叉树的最大路径和124;
 
 
 /*
@@ -17,16 +17,9 @@ package com.二叉树的最大路径和124;
 输出: 42
  */
 
-import sun.reflect.generics.tree.Tree;
+import com.TreeNode;
 
-class TreeNode{
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x){
-        val = x;
-    }
-}
+
 
 public class Solution {
 
@@ -41,7 +34,7 @@ public class Solution {
 
 
     /*
-    返回root为根节点的子树中，该root节点所能向上提供的最大值。
+    返回root为根节点的子树中，该root节点所能向上提供的最大值。注意其与题目方法的区别！！！！
      */
     public int dfs(TreeNode root){
 

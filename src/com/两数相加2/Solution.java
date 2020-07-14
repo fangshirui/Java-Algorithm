@@ -10,11 +10,8 @@ package com.两数相加2;
 原因：342 + 465 = 807
  */
 
-class ListNode{
-    int val;
-    ListNode next = null;
-    ListNode(int x){val = x;}
-}
+
+import com.ListNode;
 
 public class Solution {
 

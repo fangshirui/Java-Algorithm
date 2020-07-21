@@ -1,4 +1,4 @@
-package com.有序数组转换为二叉搜索树108;
+package com.二叉树.有序数组转换为二叉搜索树108;
 
 /*
 将一个按照升序排列的有序数组，转换为一棵高度平衡二叉搜索树。
@@ -16,8 +16,6 @@ package com.有序数组转换为二叉搜索树108;
  -10  5
 
  */
-
-import jdk.nashorn.internal.runtime.regexp.joni.constants.NodeType;
 
 class TreeNode {
     int val;

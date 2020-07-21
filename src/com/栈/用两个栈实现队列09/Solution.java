@@ -1,4 +1,4 @@
-package com.用两个栈实现队列09;
+package com.栈.用两个栈实现队列09;
 
 /*
 用两个栈实现一个队列。队列的声明如下，请实现它的两个函数 appendTail 和 deleteHead ，

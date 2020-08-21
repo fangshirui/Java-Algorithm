@@ -1,4 +1,4 @@
-package com.两数之和1;
+package com.数组.两数之和1;
 
 import java.util.HashMap;
 import java.util.Map;

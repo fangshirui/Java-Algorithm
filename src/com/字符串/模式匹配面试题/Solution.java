@@ -1,4 +1,4 @@
-package com.模式匹配面试题;
+package com.字符串.模式匹配面试题;
 
 /*
 你有两个字符串，即pattern和value。

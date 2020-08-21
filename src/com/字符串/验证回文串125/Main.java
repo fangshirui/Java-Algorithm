@@ -1,4 +1,4 @@
-package com.验证回文串125;
+package com.字符串.验证回文串125;
 
 public class Main {
 

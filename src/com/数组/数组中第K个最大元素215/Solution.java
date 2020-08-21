@@ -1,7 +1,6 @@
-package com.数组中第K个最大元素215;
+package com.数组.数组中第K个最大元素215;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 

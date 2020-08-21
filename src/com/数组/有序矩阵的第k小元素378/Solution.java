@@ -1,7 +1,6 @@
-package com.有序矩阵的第k小元素378;
+package com.数组.有序矩阵的第k小元素378;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
